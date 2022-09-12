@@ -1,2 +1,2 @@
 this is thes project
-each time every s
+each time every out put will be appeared 
