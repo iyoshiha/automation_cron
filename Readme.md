@@ -5,3 +5,4 @@ statement:
 this test $date;
 
 this is may zettai tukuru 
+tee comamnd is 
